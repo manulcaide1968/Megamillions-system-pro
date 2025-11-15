@@ -3,6 +3,7 @@
   "short_name": "MM System",
   "description": "Professional lottery reduction system for Mega Millions",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#000428",
   "theme_color": "#FFD700",
@@ -22,4 +23,3 @@
     }
   ]
 }
-
