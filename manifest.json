@@ -1,7 +1,7 @@
 {
-  "name": "Mega Millions System Pro",
-  "short_name": "MM System",
-  "description": "Professional lottery reduction system for Mega Millions",
+  "name": "Pyramidal Algorithm Pro: Progressive Reduction",
+  "short_name": "Pyramidal Pro",
+  "description": "Advanced number reduction system for lotteries. Entertainment only",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -23,3 +23,4 @@
     }
   ]
 }
+
